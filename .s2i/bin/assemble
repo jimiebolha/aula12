@@ -1,0 +1,1 @@
+echo "Fazendo build da imagem com S2i"
